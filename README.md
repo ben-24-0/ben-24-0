@@ -13,7 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ben-24-0&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-24-0&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://raw.githubusercontent.com/ben-24-0/ben-24-0/output/snake.svg" alt="Snake animation" />
+
 
 
 
