@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I'm a compSci Student<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently learning Fullstack Devolopment<br>⚡ don't know how i got here
 
+<div class="tenor-gif-embed" data-postid="23329182" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/omnitrix-ben10-rotation-rotating-gif-23329182">Omnitrix Ben10 GIF</a>from <a href="https://tenor.com/search/omnitrix-gifs">Omnitrix GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/kNtPYrRR) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__._benson_.e__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/benson-eldho-856476304/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:BENSONELDHOCT@GMAIL.COM) 
