@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  <img height="200" src="omnitrix-ben10.gif"  />
+  <img height="200" src="https://i.imgur.com/vEiCP3t.gif"  />
 </div>
 
 ###
