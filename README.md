@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a compSci Student<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently learning Fullstack Devolopment<br>⚡ don't know how i got here
+🔭 I'm a compSci Student<br>🗿 I’m looking to collaborate on projects<br>🌱 I’m currently learning Fullstack Devolopment<br>⚡ don't know how i got here
 
 
 ## 🌐 Socials:
